@@ -1,6 +1,6 @@
-# Marmara University Wıfo Project
+# Marmara University Wifo Project
 
-## IMPACTS OF RESEARCHES MADE BEFORE ONLINE SHOPPING ON ONLINE SHOPPING DECISIONS
+#### IMPACTS OF RESEARCHES MADE BEFORE ONLINE SHOPPING ON ONLINE SHOPPING DECISIONS
 
 E-Commerce is one of the fastest growing platforms of today and allows internet users to buy and 
 sell information, services or products online. According to the literature, internet users request 
